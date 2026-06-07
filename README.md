@@ -25,7 +25,7 @@ https://steadfast-teal-350.notion.site/AI-Evaluation-and-Annotation-Portfolio-37
 Evaluating AI-generated responses for accuracy, helpfulness, reasoning quality, and safety.
 
 ### Data Annotation
-Annotating and labeling text datasets to support machine learning and AI model development.
+Annotating and labeling text datasets, Images to support machine learning and AI model development.
 
 ### Prompt Engineering
 Designing and refining prompts to improve AI model performance and output quality.
