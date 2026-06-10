@@ -1,4 +1,4 @@
-# AI Evaluation and Data Annotation Portfolio
+# AI Evaluation, Data Annotation and Computer Vision Portfolio
 
 ## About Me
 Hello! I'm Vikas Kumar, an AI Evaluation and Data Annotation Specialist passionate about improving AI systems through high-quality evaluation, annotation, and quality assurance processes.
@@ -13,9 +13,50 @@ Hello! I'm Vikas Kumar, an AI Evaluation and Data Annotation Specialist passiona
 - Research and Analysis
 - Data Labeling
 - LLM Assessment
+- Computer Vision
 
  ## Projects
+ ## 1.   AI Response Evaluation
 
+ ## Skills Demonstrated
+ - Response Ranking
+ - AI Evaluation
+ - Quality Assurance
+ - Reasoning and Justification
+
+   ## Sample Evaluation
+ <img width="853" height="656" alt="Screenshot 2026-06-10 144745" src="https://github.com/user-attachments/assets/fdc91320-c194-454d-b704-bc7b405d5130" />
+
+ ## 2. Content Moderation
+
+ ## Skills Demonstrated
+ - Content Review
+ - Safety Evaluation
+ - Policy Interpretation
+ - Quality Assurance
+   
+ <img width="867" height="285" alt="Screenshot 2026-06-10 144859" src="https://github.com/user-attachments/assets/c5fbf62e-2608-4d42-807a-dda2ebdebace" />
+
+ ## 3. Sentiment Analysis
+
+ ## Skills Demonstrated
+ - Text annotation
+ - Sentiment Classification
+ - NLP Dataset Preparation
+ - Quality Review 
+ <img width="755" height="283" alt="Screenshot 2026-06-10 145025" src="https://github.com/user-attachments/assets/4ea372c6-580f-43be-879b-bddc7831a701" />
+
+# Quality Assurance Approach
+
+- Double-check labels before submission
+- Follow annotation guidelines consistently
+- Review edge cases carefully
+- Maintain high annotation accuracy
+- Ensure consistency across datasets
+- Document uncertain cases for clarification
+- Prioritize quality over speed
+  
+## Computer Vision Projects
  ### 1. Vehicle Detection Annotation
 **Tool:** CVAT
 **Classes Annotated:**
@@ -91,14 +132,15 @@ Annotated complex urban traffic infrastructure containing multiple object classe
 - Dataset creation
   <img width="1205" height="757" alt="Screenshot 2026-06-10 114322" src="https://github.com/user-attachments/assets/65df4674-6fc5-44cb-a269-a1016f5f499b" />
 
-## Tools Used
 
-- CVAT
-- GitHub
+## Tools and Platforms
+
+- Microsoft Excel
+- Google Sheets
 - Notion
-- Microsoft Office
-- Google Workspace
-- Excel
+- Label Studio
+- CVAT
+- AI Annotation Platforms
 
 ## Portfolio
 My complete portfolio can be viewed here:
