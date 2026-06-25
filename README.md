@@ -35,7 +35,8 @@ Hello! I'm Vikas Kumar, an AI Evaluation and Data Annotation Specialist passiona
  - Policy Interpretation
  - Quality Assurance
    
- <img width="867" height="285" alt="Screenshot 2026-06-10 144859" src="https://github.com/user-attachments/assets/c5fbf62e-2608-4d42-807a-dda2ebdebace" />
+ <img width="849" height="283" alt="Screenshot 2026-06-25 124722" src="https://github.com/user-attachments/assets/db4518c2-593d-484a-8a63-04e7c7d95e80" />
+
 
  ## 3. Sentiment Analysis
 
@@ -131,21 +132,83 @@ Annotated complex urban traffic infrastructure containing multiple object classe
 - Small object annotation
 - Dataset creation
   <img width="1205" height="757" alt="Screenshot 2026-06-10 114322" src="https://github.com/user-attachments/assets/65df4674-6fc5-44cb-a269-a1016f5f499b" />
+  
+
+
+## 4. Traffic Vehicle Annotation Dataset
+
+## Overview
+
+This project focuses on annotating road traffic images using Label Studio for object detection tasks. The dataset contains manually labeled vehicles in urban traffic environments, providing high-quality annotations for training and evaluating computer vision models.
+
+## Annotation Details
+
+**Tool:** Label Studio
+
+**Annotation Type:** Bounding Box Object Detection
+
+### Classes
+
+- Car
+- Truck
+- Van
+- Traffic Light
+
+## Project Summary
+
+Annotated traffic scenes containing multiple vehicle types in varying road conditions. Created accurate bounding box annotations to support applications such as vehicle detection, traffic monitoring, vehicle tracking, and intelligent transportation systems.
+
+## Skills Demonstrated
+
+- Data Annotation
+- Bounding Box Labeling
+- Traffic Scene Analysis
+- Multi-Class Object Detection
+- Dataset Preparation
+- Annotation Quality Control
+- Computer Vision Data Management
+
+## Annotation Challenges
+
+- Vehicle Occlusion
+- Different Vehicle Sizes
+- Dense Traffic Conditions
+- Perspective Variations
+- Lighting Changes
+- Motion Blur
+
+## Applications
+
+- Vehicle Detection
+- Traffic Monitoring Systems
+- Vehicle Counting
+- Traffic Flow Analysis
+- Smart City Solutions
+- Intelligent Transportation Systems (ITS)
+
+
+## Sample Annotation
+
+The image below demonstrates bounding box annotations for multiple vehicle categories in a real-world traffic scene.
+
+<img width="730" height="484" alt="Screenshot 2026-06-22 135806" src="https://github.com/user-attachments/assets/a19bf71f-f266-4b49-b46e-e330c4d1e0e2" />
+
+
+- Blue Bounding Boxes: Cars
+- Orange Bounding Boxes: Trucks
+- Salmon Pink Bounding Boxes: Vans
+- Golden Yellow Bounding Boxes: Traffic Light
 
 
 ## Tools and Platforms
 
 - Microsoft Excel
 - Google Sheets
-- Notion
+- Roboflow
 - Label Studio
 - CVAT
 - AI Annotation Platforms
 
-## Portfolio
-My complete portfolio can be viewed here:
-
-https://steadfast-teal-350.notion.site/AI-Evaluation-and-Annotation-Portfolio-377b6093fe0480b4bfb2e46587efd9c9
 
 ## Areas of Expertise
 
