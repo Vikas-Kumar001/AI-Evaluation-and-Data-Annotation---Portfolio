@@ -57,7 +57,7 @@ Hello! I'm Vikas Kumar, an AI Evaluation and Data Annotation Specialist passiona
 - Document uncertain cases for clarification
 - Prioritize quality over speed
   
-## Computer Vision Projects
+## Image Annotation Projects
  ### 1. Vehicle Detection Annotation
 **Tool:** CVAT
 **Classes Annotated:**
